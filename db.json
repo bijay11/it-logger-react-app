@@ -13,6 +13,13 @@
       "tech": "John Doe",
       "date": "2021-05-03T18:54:51.336Z",
       "id": 3
+    },
+    {
+      "message": "Changed network card in sever 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-05-03T20:05:00.952Z",
+      "id": 4
     }
   ],
   "techs": [
